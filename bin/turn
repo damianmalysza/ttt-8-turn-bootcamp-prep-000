@@ -12,4 +12,4 @@ display_board(board)
   turn(board)
 end
 
-put "Game Over!"
+puts "Game Over!"
